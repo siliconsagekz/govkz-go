@@ -1,0 +1,8 @@
+---
+
+is_debug: true
+
+services:
+  external:
+    stat_gov: https://stat.gov.kz
+    
